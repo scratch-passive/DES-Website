@@ -113,7 +113,8 @@ export default {
                 },
                 dataScience: {
                     name: "Edmonton Data Science Community",
-                    logoSvg: "/img/logos/meetups/datascience-logo.svg",
+                    logoImg:
+                        "/meetups/DataScience_Nvpcx6-aY?updatedAt=1698789157558",
                     linkTo: "https://www.meetup.com/edmonton-data-science-community/",
                     description: `The Edmonton Data Community aims to build a safe space
                         for folks in the data space to connect, share knowledge and grow
